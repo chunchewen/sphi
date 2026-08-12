@@ -99,10 +99,4 @@ The data-generation and model-fitting scripts use replicate-specific random seed
 
 This repository contains simulation code only. It does not include patient-level Healthcare Cost and Utilization Project (HCUP) data or other restricted health data.
 
-## Citation
 
-If you use this code, please cite the associated manuscript. Full citation information will be added after publication.
-
-## Contact
-
-For questions about the code or simulation study, please open an issue in this repository.
